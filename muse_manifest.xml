@@ -1,0 +1,51 @@
+<manifest alg="2" build="314" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="402460996"/>
+    <file name="master_a-master.css" crc="237329404" ref="index:general:galeria:conocenos"/>
+    <file name="index.css" crc="431411178" ref="index"/>
+    <file name="general.css" crc="4247796219" ref="general"/>
+    <file name="galeria.css" crc="4147196586" ref="galeria"/>
+    <file name="conocenos.css" crc="2387227" ref="conocenos"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:general:galeria:conocenos"/>
+    <file name="museutils.js" crc="3865766194" ref="index:general:galeria:conocenos"/>
+    <file name="webpro.js" crc="3903299128" ref="index:general:galeria:conocenos"/>
+    <file name="musewpslideshow.js" crc="138381373" ref="index:general:galeria:conocenos"/>
+    <file name="jquery.museoverlay.js" crc="4250894771" ref="index:general:galeria:conocenos"/>
+    <file name="touchswipe.js" crc="4156838003" ref="index:general:galeria:conocenos"/>
+    <file name="jquery.musemenu.js" crc="3788803530" ref="index:general:galeria:conocenos"/>
+    <file name="jquery.tobrowserwidth.js" crc="3842421675" ref="index:general:galeria:conocenos"/>
+    <file name="pie.js" crc="3827607177" ref="index:galeria"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index:general:galeria:conocenos"/>
+  </folder>
+  <folder name="images">
+    <file name="palacio.jpg" crc="15494947" ref="index:general:galeria:conocenos"/>
+    <file name="blank.gif" crc="4208392903" ref="index:general:galeria:conocenos"/>
+    <file name="imagen1.jpg" crc="281347385" ref="index:general:galeria:conocenos"/>
+    <file name="imagen2.jpg" crc="3850142613" ref="index:general:galeria:conocenos"/>
+    <file name="loading.gif" crc="3815509949" ref="index:general:galeria"/>
+    <file name="san miguel arcangel.jpg" crc="275105015" ref="index"/>
+    <file name="imagen4.jpg" crc="436958669" ref="index"/>
+    <file name="02092012799.jpg" crc="523131394" ref="index"/>
+    <file name="imagen3.jpg" crc="387721791" ref="index"/>
+    <file name="prees.jpg" crc="372680395" ref="general"/>
+    <file name="sec.jpg" crc="466395310" ref="general"/>
+    <file name="bahi.jpg" crc="3967528556" ref="general"/>
+    <file name="de.jpg" crc="105038382" ref="galeria"/>
+    <file name="palmas.jpg" crc="405800252" ref="galeria"/>
+    <file name="i.jpg" crc="327610225" ref="galeria"/>
+    <file name="es.jpg" crc="61531901" ref="galeria"/>
+    <file name="quetz.jpg" crc="306077539" ref="galeria"/>
+    <file name="rio.jpg" crc="4198395108" ref="galeria"/>
+    <file name="ce.jpg" crc="4189680860" ref="galeria"/>
+    <file name="de178x238.jpg" crc="419522529" ref="galeria"/>
+    <file name="palmas178x273.jpg" crc="3952770673" ref="galeria"/>
+    <file name="es258x220.jpg" crc="467155127" ref="galeria"/>
+    <file name="rio178x271.jpg" crc="4115242541" ref="galeria"/>
+  </folder>
+  <file name="index.html" crc="4236801490" mt="1401935134454" redirect="true"/>
+  <file name="general.html" crc="3967500401" mt="1401935290775" redirect="true"/>
+  <file name="galeria.html" crc="445958118" mt="1401935134482" redirect="true"/>
+  <file name="conocenos.html" crc="4083953235" mt="1401935134490" redirect="true"/>
+</manifest>
